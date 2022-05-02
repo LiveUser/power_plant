@@ -3,6 +3,8 @@ description: A unique token generator
 
 version: 1.0.1+2
 
+repository: https://github.com/LiveUser/power_plant
+
 environment:
   sdk: ">=2.16.0 <3.0.0"
 
